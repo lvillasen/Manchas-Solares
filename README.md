@@ -1,3 +1,4 @@
-# Gráfica de Manchas Solares
+# Manchas Solares
 
-## Agregar código para hacer análisis de Fourier
+## Códigorelacionado con algunos aspectos del Sol
+
