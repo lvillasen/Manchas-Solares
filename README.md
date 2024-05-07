@@ -1,4 +1,4 @@
 # Manchas Solares
 
-## Códigorelacionado con algunos aspectos del Sol
+## Código relacionado con algunos aspectos del Sol
 
